@@ -2,7 +2,7 @@
 
 This repository serves as my way to help me setup and maintain my Mac. It takes the effort out of installing everything manually. Everything needed to install my preferred setup of macOS is detailed in this readme. Feel free to explore, learn and copy parts for your own dotfiles. Enjoy!
 
-This repository was customized based on [Dries Vints's dotfiles](https://github.com/driesvints/dotfiles). If you want to learn more about Dries's dotfiles and how they can be used to configure your Mac environment, check out the readme file at the link above.
+This repository was customized based on [Dries Vints's dotfiles](https://github.com/driesvints/dotfiles). If you want to learn more about Dries's dotfiles and how they can be used to configure your Mac environment, check out the README at the link above.
 
 ### Backup your data
 
@@ -41,8 +41,6 @@ After backing up your old Mac you may now follow these install instructions to s
 6. Restart your computer to finalize the process
 
 Your Mac is now ready to use!
-
-> 💡 You can use a different location than `~/.dotfiles` if you want. Make sure you also update the reference in the [`.zshrc`](./.zshrc#L2) file.
 
 ### Cleaning your old Mac (optionally)
 
