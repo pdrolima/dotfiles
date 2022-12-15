@@ -1,3 +1,6 @@
 [submodule "plugins/artisan"]
 	path = plugins/artisan
 	url = git@github.com:jessarcher/zsh-artisan.git
+[submodule "plugins/zsh-autocomplete"]
+	path = plugins/zsh-autocomplete
+	url = https://github.com/marlonrichert/zsh-autocomplete.git
